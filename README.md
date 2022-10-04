@@ -1,5 +1,6 @@
 ### Hi, I'm Azamjon Bakhriddinov :wave:
-
+<p align="center">
+<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Software+Engineer;.Net+Enthusiast;Psychology;Nice+to+meet+you!" /> </a> </p>
 🧑‍💻 About me
 <!--
 **leverow/leverow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
