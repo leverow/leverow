@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://git.io/streak-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leverow&label=Profile%20views&color=0e75b6&style=flat" alt="leverow" /> </p>
+<p align="center"> ![](https://komarev.com/ghpvc/?username=leverow&style=flat-square) </p>
