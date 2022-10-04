@@ -1,6 +1,6 @@
 ### Hi, I'm Azamjon Bakhriddinov :wave:
 <p align="center">
-<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Software+Engineer;.Net+Enthusiast;Psychology;Nice+to+meet+you!" /> </a> </p>
+<a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Software+Engineer;.Net+Enthusiast;;Nice+to+meet+you!" /> </a> </p>
 🧑‍💻 About me
 <!--
 **leverow/leverow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Identity Provider
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://git.io/streak-stats)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leverow&label=Profile%20views&color=0e75b6&style=flat" alt="leverow" /> </p>
