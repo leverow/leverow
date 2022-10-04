@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Identity Provider
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://git.io/streak-stats)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leverow&show_icons=true&theme=synthwave" alt="Leverow :: Profile Stats" /></p>
 <p align="center"> ![](https://komarev.com/ghpvc/?username=leverow&style=flat-square) </p>
