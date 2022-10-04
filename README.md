@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverow&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverow&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leverow&show_icons=true&theme=synthwave" alt="Leverow :: Profile Stats" /></p>
@@ -14,3 +15,4 @@
 - Telegram: <a href = "https://t.me/leverow">Leverow</a>
 - Website: <a href = "https://leverow.uz">Leverow.uz</a>
 <br>
+
